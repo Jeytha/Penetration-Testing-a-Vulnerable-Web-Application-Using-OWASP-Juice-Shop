@@ -55,3 +55,4 @@ Now, you should be able to access the Juice Shop application by navigating to
 
      http://172.17.0.2:3000 in your web browser. 
 
+SOURCE :   0xrajneesh. (2024). Ethical-Hacking-Projects-for-beginners/Project-2-Penetration-Testing-a-Vulnerable-Web-Application.md at main · 0xrajneesh/Ethical-Hacking-Projects-for-beginners. GitHub. https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners/blob/main/Project-2-Penetration-Testing-a-Vulnerable-Web-Application.md

@@ -1,5 +1,5 @@
 # Penetration-Testing-a-Vulnerable-Web-Application-Using-OWASP-Juice-Shop
-The project involved setting up and testing the OWASP Juice Shop on Kali Linux using Docker, performing vulnerability scanning, and confirming open ports using Nmap.
+The project involved setting up and testing the OWASP Juice Shop on Linux using Docker, performing vulnerability scanning, and confirming open ports using Nmap.
 
 Step 1: Install Docker on your Linux machine
 
